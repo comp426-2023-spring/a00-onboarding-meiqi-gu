@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Maggies-MacBook-Air-9.local 20.6.0 Darwin Kernel Version 20.6.0: Wed Jun 23 00:26:31 PDT 2021; root:xnu-7195.141.2~5/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun 17 2021 18:50:51)
+CURL:	[/opt/anaconda3/bin/curl] curl 7.84.0 (x86_64-apple-darwin13.4.0) libcurl/7.84.0 OpenSSL/1.1.1q zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/maggiegu/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
